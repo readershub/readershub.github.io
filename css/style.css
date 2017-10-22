@@ -1,0 +1,37 @@
+.profile-pic {
+	max-width: 100%;
+	border-style: none; 
+}
+a
+{
+	text-decoration: none;
+}
+.first-progress
+{
+	background-color: hotpink;
+}
+
+.my-navbar
+{ 
+	background-color: lightblue;
+}
+
+.background-image{
+
+	background-image: url(../img/home.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 95vh;
+}
+.profile-pic2{
+	max-width: 100%
+	border-style: none;
+}
+p
+{
+	text-align: left;
+}
+.cardborder
+{
+	border-style: none;
+}

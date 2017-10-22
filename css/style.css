@@ -23,15 +23,12 @@ a
 	background-repeat: no-repeat;
 	height: 95vh;
 }
-.profile-pic2{
-	max-width: 100%
-	border-style: none;
-}
-p
-{
+
+p{
 	text-align: left;
 }
-.cardborder
-{
+
+.cardborder{
 	border-style: none;
 }
+
